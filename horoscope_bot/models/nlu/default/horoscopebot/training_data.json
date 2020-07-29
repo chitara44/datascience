@@ -2,42 +2,36 @@
   "rasa_nlu_data": {
     "common_examples": [
       {
-        "text": "Hello",
         "intent": "greeting",
-        "entities": []
+        "text": "Hello"
       },
       {
-        "text": "I want to know my Horoscope",
         "intent": "get_horoscope",
-        "entities": []
+        "text": "I want to know my Horoscope"
       },
       {
-        "text": "Can you please tell me my horoscope?",
         "intent": "get_horoscope",
-        "entities": []
+        "text": "Can you please tell me my horoscope?"
       },
       {
-        "text": "Please subscribe me",
         "intent": "subscription",
-        "entities": []
+        "text": "Please subscribe me"
       },
       {
-        "text": "Hi",
         "intent": "greeting",
-        "entities": []
+        "text": "Hi"
       },
       {
-        "text": "I want to get updated every day with this information",
         "intent": "subscription",
-        "entities": []
+        "text": "I want to get updated every day with this information"
       },
       {
-        "text": "hi there",
         "intent": "greeting",
-        "entities": []
+        "text": "hi there"
       }
     ],
     "regex_features": [],
+    "lookup_tables": [],
     "entity_synonyms": []
   }
 }

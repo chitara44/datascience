@@ -1,0 +1,18 @@
+{
+"text": "19-01",
+"intent": "dob_intent",
+"entities": [
+{
+"start": 0,
+"end": 2,
+"value": "19",
+"entity": "DD"
+},
+{
+"start": 3,
+"end": 5,
+"value": "01",
+"entity": "MM"
+}
+]
+}
